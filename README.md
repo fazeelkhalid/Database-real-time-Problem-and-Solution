@@ -2,8 +2,19 @@
  This repository contains almost every problem significant for the exam or the interviews, especially for the database engineer's interview. Yor are always welcome the collaboration in it.
 
 
-<a href="/Database-real-time-Problem-and-Solution/tree/main/Lab1"><h1>LAB - 2</h1></a>
+<a href="./Lab1"><h1>LAB - 1</h1></a>
 
-<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab2/Q1.py"><h3 align="center" >Question 1.1:  </h3></a>
-    Concatenate two lists 
-    Write a program to add two lists index-wise. Create a new list that contains the 0th index item from both the list, then the 1st index item, and so on till the last element. any leftover items will get added at the end of the new list.
+<a href="./Lab1/solution/Q1.aspx"><h3 align="center" >Question 1:  </h3></a>
+Design a HTML page by using ASPX.Net frame work. Page should look like this.
+<div align="center">
+<img align="center" src="/Lab1/images/1.png"/>
+</div>
+
+<a href="./Lab1/solution/Q2.aspx"><h3 align="center" >Question 2:  </h3></a>
+Design a HTML page by using ASPX.Net frame work. Page should look like this.
+
+<div align="center">
+<img align="center" src="/Lab1/images/2.png"/>
+<img align="center" src="/Lab1/images/2.1.png"/>
+<img align="center" src="/Lab1/images/2.2.png"/>
+</div>
