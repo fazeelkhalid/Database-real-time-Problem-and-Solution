@@ -18,3 +18,11 @@ Design a HTML page by using ASPX.Net frame work. Page should look like this.
 <img align="center" src="/Lab1/images/2.1.png"/>
 <img align="center" src="/Lab1/images/2.2.png"/>
 </div>
+
+
+<a href="./Lab1/solution/Q2.aspx"><h3 align="center" >Question 3:  </h3></a>
+Design a HTML page by using ASPX.Net frame work and javascript. Page should look like this.
+
+<div align="center">
+<img align="center" src="/Lab1/images/3.png"/>
+</div>
