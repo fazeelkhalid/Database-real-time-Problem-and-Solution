@@ -29,5 +29,6 @@ Design a HTML page by using ASPX.Net frame work and javascript. Page should look
 <br>
 <br>
 <br>
-<a href="./Lab1"><h1>Problem - 2</h1></a>
-
+<a href="./Problem2"><h1>Problem - 2</h1></a>
+<a href="./Problem1/solution/Q1.aspx"><h3 align="center" >Question 1:  </h3></a>
+Design a HTML page by using ASPX.Net frame work. Page should look like this.
