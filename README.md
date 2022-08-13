@@ -2,7 +2,7 @@
  This repository contains almost every problem significant for the exam or the interviews, especially for the database engineer's interview. Yor are always welcome the collaboration in it.
 
 
-<a href="./Lab1"><h1>LAB - 1</h1></a>
+<a href="./Lab1"><h1>Problem - 1</h1></a>
 
 <a href="./Lab1/solution/Q1.aspx"><h3 align="center" >Question 1:  </h3></a>
 Design a HTML page by using ASPX.Net frame work. Page should look like this.
