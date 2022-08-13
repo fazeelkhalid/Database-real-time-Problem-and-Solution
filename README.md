@@ -26,6 +26,3 @@ Design a HTML page by using ASPX.Net frame work and javascript. Page should look
 <div align="center">
 <img align="center" src="/Problem1/images/3.png"/>
 </div>
-<br>
-<br>
-<br>
