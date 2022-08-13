@@ -24,3 +24,5 @@ Design a HTML page by using ASPX.Net frame work. Page should look like this.
 Design a HTML page by using ASPX.Net frame work and javascript. Page should look like this.
 
 <div align="center">
+<img align="center" src="/Problem1/images/3.png"/>
+</div>
